@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Web-development Project
-- 📫 How to reach me (https://www.behance.net/humayunkamal)
+- 📫 How to reach me (	kamalhumayun320@gmail.com   )
 
 <!---
 HumayunKamal/HumayunKamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
