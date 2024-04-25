@@ -1,7 +1,7 @@
 ### Hi there
 
-*I am a Javascript Programmer. Welcome to my profile.
-I am an avid learner and am taking the next step by implementing my learnings.*
+I am a Javascript Programmer. Welcome to my profile.
+I am an avid learner and am taking the next step by implementing my learnings.
 
 **My Itinerary**
 
