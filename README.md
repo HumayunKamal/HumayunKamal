@@ -1,7 +1,8 @@
 ### Hi there
 
-I am a Javascript Programmer. Welcome to my profile.
-I am an avid learner and am taking the next step by implementing my learnings.
+**SE** Major in **Javascript**
+
+Learner, Solution provider, and Observer
 
 **My Itinerary**
 
