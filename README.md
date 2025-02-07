@@ -2,25 +2,25 @@
 
 **Languages**
 
-Html Css Javascript and Typescript
+Html Css Javascript and TS
 
 ## **Libraries and Frameworks**
 
-React, React Router, React Redux and Query
+React Router, Redux and Query
 
 Tailwind, MUI
 
-React Three Fiber, GSAP and Motion.dev
+R3F, GSAP and Motion
 
-Express, MongoDb, PostGres and Node
+Express, Mongob, PostGres and Node
 
 Selenium
 
 ## **Tools**
 
-VS Code, Git, Postman
+VS-Code, Git, Postman
 
-Figma and Photoshop
+Figma, Photoshop
 
 ## **FIND ME ON ⬇️**
 
