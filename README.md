@@ -2,25 +2,25 @@
 
 **Languages**
 
-Html Css Javascript and TS
+- Html Css Javascript and TS
 
 ## **Libraries and Frameworks**
 
-React Router, Redux and Query
+- React Router, Redux and Query
 
-Tailwind, MUI
+- Tailwind, MUI
 
-R3F, GSAP and Motion
+- R3F, GSAP and Motion
 
-Express, Mongob, PostGres and Node
+- Express, Mongob, PostGres and Node
 
-Selenium
+- Selenium
 
 ## **Tools**
 
-VS-Code, Git, Postman
+- VS-Code, Git, Postman
 
-Figma, Photoshop
+- Figma, Photoshop
 
 ## **FIND ME ON ⬇️**
 
