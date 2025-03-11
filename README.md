@@ -2,7 +2,7 @@
 
 **Languages**
 
-- Html Css Javascript and TS
+- Html Css Javascript and TS (Superset)
 
 ## **Libraries and Frameworks**
 
@@ -12,7 +12,7 @@
 
 - R3F, GSAP and Motion
 
-- Express, Mongob, PostGres and Node
+- Express, Mongodb, PostGres and Node
 
 - Selenium
 
@@ -20,7 +20,7 @@
 
 - VS-Code, Git, Postman
 
-- Figma, Photoshop
+- Figma
 
 ## **FIND ME ON ⬇️**
 
